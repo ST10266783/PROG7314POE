@@ -94,6 +94,9 @@ This is not the formal research report. Identify three suitable apps that could 
 
 **Proposed technology:** 
 
+##
+| Area | Technology |
+|---:|---|
 |Android application|Kotlin and Jetpack Compose|
 | Architecture | MVVM |
 | API connection | Retrofit |
