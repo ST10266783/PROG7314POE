@@ -112,10 +112,11 @@ This is not the formal research report. Identify three suitable apps that could 
 
 **Three main risks and how they will be reduced:**  
 
-
-1.  | Offline synchronisation conflicts | Each record will contain a last-updated timestamp. The API can use a simple latest-update-wins rule. |
-2.  | Notifications not arriving correctly | The group will test notifications early and use scheduled local notifications as a backup. |
-3.  | The application becoming too large | The group will finish task and module CRUD first before starting the calendar, statistics and visual improvements. |
+| # | Feature | Purpose and user value |
+|---:|---|---|
+| 1 | Offline synchronisation conflicts | Each record will contain a last-updated timestamp. The API can use a simple latest-update-wins rule. |
+| 2 | Notifications not arriving correctly | The group will test notifications early and use scheduled local notifications as a backup. |
+| 3 | The application becoming too large | The group will finish task and module CRUD first before starting the calendar, statistics and visual improvements. |
 
 **Scope check:**  
 
